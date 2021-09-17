@@ -1,5 +1,5 @@
 
-const BASE_URL = "http://localhost:3000/players"
+const BASE_URL = "https://salty-meadow-49891.herokuapp.com/players"
 const cardsContainer = document.getElementById("cards-container")
 const playerForm = document.getElementById("card-form")
 
